@@ -4,7 +4,7 @@
 ### Attributes
 
 * Loan_ID - ID Of Loan Number
-* Sex - Gender of Customer (Categorical :-'Male', "FeMale')
+* Sex - Gender of Customer (Categorical :-'Male', "Female')
 * Marital_status - Marital Status of Custoner
 * No_Dependents- Depended Family Member (Numeric)
 * Education Status- Qualification of Customer (categorical:-'Graduate' ,‘Non-Graduate’)
