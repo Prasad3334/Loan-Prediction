@@ -4,20 +4,20 @@
 ### Attributes
 
 * Loan_ID - ID Of Loan Number
-* Sex - Gender of Customer (Categorical :-'Nale', "Fenale')
-* Narital_status - Marital Status of Custoner
-* No_Dependents- Depended Fanily Menber (tumeric)
-* Ediication Status- qualification of Customer (categorical:-'craduate' ,‘Not-Graduate’)
-* Self Employed ~ customer Self Employed or Not (categorical:-'ves', Nl)
-* Incone- Customer's Income, (Nuneric)
-* Coapplicant_incone- Customer's Coapplicant Incone (Numeric)
-* Loan_Aount= No of anount given by bank to custoner (Numeric)
+* Sex - Gender of Customer (Categorical :-'Male', "FeMale')
+* Marital_status - Marital Status of Custoner
+* No_Dependents- Depended Family Member (Numeric)
+* Education Status- Qualification of Customer (categorical:-'Graduate' ,‘Non-Graduate’)
+* Self Employed - Customer Self Employed or Not (categorical:-'Yes', No)
+* Income- Customer's Income, (Nuneric)
+* Coapplicant_income- Customer's Coapplicant Income (Numeric)
+* Loan_Amount= No of amount given by bank to customer (Numeric)
 * Tenure- Period of repayment (Numeric)
 * Credit History- Score of Repayment (Numeric)
-* Property_Area- Custoner's Property Area (Categorical: 'seniurban’, ‘Rural’, ‘Urban')
+* Property_Area- Custoner's Property Area (Categorical: 'semiurban’, ‘Rural’, ‘Urban')
 
 ### Target Variable
-* Loan_status- Decide to give loan to the Customer or Hot. (Categorical:-"Yes','No')
+* Loan_status- Decide to give loan to the Customer or Not. (Categorical:-"Yes','No')
 
 # Result
 
