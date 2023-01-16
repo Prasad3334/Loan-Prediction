@@ -14,7 +14,7 @@
 * Loan_Amount= No of amount given by bank to customer (Numeric)
 * Tenure- Period of repayment (Numeric)
 * Credit History- Score of Repayment (Numeric)
-* Property_Area- Custoner's Property Area (Categorical: 'semiurban’, ‘Rural’, ‘Urban')
+* Property_Area- Customer's Property Area (Categorical: 'semiurban’, ‘Rural’, ‘Urban')
 
 ### Target Variable
 * Loan_status- Decide to give loan to the Customer or Not. (Categorical:-"Yes','No')
